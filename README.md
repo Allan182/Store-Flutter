@@ -1,3 +1,3 @@
-# flutter_application_2
+# Store-Flutter
 
-A new Flutter project.
+Criação de uma lojinha em app Flutter para demonstração de produtos.
